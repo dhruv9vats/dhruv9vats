@@ -1,4 +1,4 @@
-- Currently a Software Engineer at [Voltron Data](https://voltrondata.com), working on and around [Theseus](https://voltrondata.com/theseus), the company's flagship accelerator-native distributed query engine.
+- Former Software Engineer at [Voltron Data](https://voltrondata.com), working on and around [Theseus](https://voltrondata.com/theseus), the company's flagship accelerator-native distributed query engine.
 - Former Intern Compute Kernels Engineer at Voltron Data.
 - [Former Student Developer](https://dhruv9vats.github.io/gsoc-2021/) with [OpenAstronomy](https://openastronomy.org/) under [Google Summer of Code](https://summerofcode.withgoogle.com/).
 
